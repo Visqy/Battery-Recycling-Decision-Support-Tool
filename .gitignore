@@ -1,0 +1,52 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Test and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Runtime outputs
+outputs/*
+!outputs/.gitkeep
+
+# Generated data files
+data/*.xlsx
+!data/battery_input_template.xlsx
+!data/default_parameters.xlsx
+!data/.gitkeep
+
+# Example generated files
+examples/*.xlsx
+!examples/.gitkeep
+!examples/README.md
+!examples/sample_input.xlsx
+!examples/sample_output.xlsx
+!examples/sample_current_configuration.xlsx
+
+# Logs
+*.log
+
+# Local environment files
+.env
+.env.*
+
+.claude/*

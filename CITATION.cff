@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Battery Recycling Decision Support Tool"
+type: software
+authors:
+  - family-names: "Chaerani"
+    given-names: "Diah"
+    affiliation: "Universitas Padjadjaran"
+  - family-names: "Napitupulu"
+    given-names: "Herlina"
+    affiliation: "Universitas Padjadjaran"
+  - family-names: "Saputra"
+    given-names: "Moch Panji Agung"
+    affiliation: "Universitas Padjadjaran"
+  - family-names: "Sabiq"
+    given-names: "Muhammad Ismail"
+    affiliation: "Universitas Padjadjaran"
+version: "1.0.0"
+date-released: "2026-05-18"
+license: "MIT"
+repository-code: "https://github.com/Visqy/NMC-Battery-Recycling-Allocation-Optimizer"
+url: "TODO_DEPLOYMENT_URL"
+abstract: "An open-source Shiny for Python application for linear-programming-based allocation analysis in electric vehicle battery recycling supply chain scenarios using a locked Linear Programming model."
+keywords:
+  - linear programming
+  - supply chain optimization
+  - battery recycling
+  - electric vehicle battery waste
+  - reverse logistics
+  - allocation optimization
+  - Shiny for Python
+references:
+  - type: article
+    authors:
+      - family-names: "Kasy"
+        given-names: "F. I."
+      - family-names: "Hisjam"
+        given-names: "M."
+      - family-names: "Jauhari"
+        given-names: "W. A."
+      - family-names: "Hassan"
+        given-names: "S. A. H. S."
+    title: "Optimizing the Supply Chain for Recycling Electric Vehicle NMC Batteries"
+    journal: "Jurnal Optimasi Sistem Industri"
+    year: 2024
+    volume: 23
+    issue: 2
+    start: 207
+    end: 226
+    doi: "10.25077/josi.v23.n2.p207-226.2024"
