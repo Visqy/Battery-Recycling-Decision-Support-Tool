@@ -193,7 +193,7 @@ def home_ui():
                 ),
                 ui.div(
                     ui.span("—", class_="out-n"),
-                    "Solver: PuLP with CBC backend, Python 3.12",
+                    "Solver: PuLP with CBC backend, Python 3.10+",
                     class_="out-item",
                     style="border-bottom: none;",
                 ),
