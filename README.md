@@ -351,7 +351,7 @@ If you use this software, cite both the software and the model reference.
 Software citation:
 
 ```text
-Chaerani, D., Napitupulu, H., Saputra, M. P. A., & Sabiq, M. I. (2026). Battery Recycling Decision Support Tool. Version 1.0.0. MIT License. https://github.com/Visqy/NMC-Battery-Recycling-Allocation-Optimizer
+Chaerani, D., Napitupulu, H., Saputra, M. P. A., & Sabiq, M. I. (2026). Battery Recycling Decision Support Tool. Version 1.0.0. MIT License. https://github.com/Visqy/Battery-Recycling-Decision-Support-Tool
 ```
 
 Model reference:

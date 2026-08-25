@@ -60,9 +60,9 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/Visqy/NMC-Battery-Recycling-Allocation-Optimizer"
-Repository = "https://github.com/Visqy/NMC-Battery-Recycling-Allocation-Optimizer"
-Issues = "https://github.com/Visqy/NMC-Battery-Recycling-Allocation-Optimizer/issues"
+Homepage = "https://github.com/Visqy/Battery-Recycling-Decision-Support-Tool"
+Repository = "https://github.com/Visqy/Battery-Recycling-Decision-Support-Tool"
+Issues = "https://github.com/Visqy/Battery-Recycling-Decision-Support-Tool/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]
